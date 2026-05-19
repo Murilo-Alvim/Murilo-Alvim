@@ -1,9 +1,19 @@
-<!-- Animação de texto rotativo -->
+<!-- Header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Murilo+%F0%9F%91%8B;Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Construindo+software+de+qualidade" alt="Typing SVG" />
+# 💻 Murilo Francisco Alvim
 
-**Jovem Aprendiz no Hospital Sírio-Libanês · Sistemas de Informação (6º período)**
+**Desenvolvedor Fullstack**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Murilo+%F0%9F%91%8B;Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Construindo+software+de+qualidade" alt="Typing SVG" />
+
+🚀 React • Next.js • Node.js • TypeScript • C# • PostgreSQL • SQL
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Murilo%20Alvim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-francisco-alvim-a49226313/)
+[![Portfolio](https://img.shields.io/badge/PORTF%C3%93LIO-muriloalvimdev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muriloalvimdev.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-Murilo--Alvim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murilo-Alvim)
 
 </div>
 
@@ -66,15 +76,3 @@ Sou comunicativo, colaborativo e movido por curiosidade. Acredito que bons produ
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Alvim&theme=dark&hide_border=true&background=0d1117" />
 </p>
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-alvim-a49226313)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muriloalvim16@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Murilo-Alvim)
-
-</div>
