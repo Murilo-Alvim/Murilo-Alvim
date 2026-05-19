@@ -1,16 +1,62 @@
-## Hi there 👋
+# Olá, eu sou o Murilo 👋
 
-<!--
-**Murilo-Alvim/Murilo-Alvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Fullstack** apaixonado por construir interfaces e APIs que resolvem problemas reais.
+Atualmente como Jovem Aprendiz no **Hospital Sírio-Libanês**, cursando **Sistemas de Informação** (5º período).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Linguagens**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-5C3EE8?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5A0?style=flat&logo=neon&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+| Projeto | Descrição | Tech |
+|--------|-----------|------|
+| [nome-do-projeto](https://github.com/Murilo-Alvim/...) | Breve descrição do que o projeto resolve | Next.js · PostgreSQL |
+| [nome-do-projeto](https://github.com/Murilo-Alvim/...) | Breve descrição do que o projeto resolve | React · Node.js |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Murilo-Alvim&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo-Alvim&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murilo-Alvim&theme=dark&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-alvim-a49226313)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muriloalvim16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Murilo-Alvim)
