@@ -3,9 +3,28 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Murilo+%F0%9F%91%8B;Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Construindo+software+de+qualidade" alt="Typing SVG" />
 
-**Jovem Aprendiz no Hospital Sírio-Libanês · Sistemas de Informação (5º período)**
+**Jovem Aprendiz no Hospital Sírio-Libanês · Sistemas de Informação (6º período)**
 
 </div>
+
+---
+
+## 👤 Sobre mim
+
+Sou Murilo Alvim, desenvolvedor em formação e estudante do 6º período de Sistemas de Informação na **UNISANTA — Universidade Santa Cecília**. Atuo como Jovem Aprendiz no **Hospital Sírio-Libanês**, uma das instituições de saúde mais reconhecidas do país, onde vivencio diariamente um ambiente corporativo exigente, dinâmico e que demanda postura profissional desde o primeiro dia.
+
+Encaro cada projeto como uma oportunidade de aprender algo novo e entregar valor de verdade. Gosto de entender o problema antes de partir para a solução, prezo por organização, clareza e atenção ao detalhe — porque acredito que escolhas pequenas se acumulam e definem a qualidade do resultado final.
+
+Sou comunicativo, colaborativo e movido por curiosidade. Acredito que bons produtos nascem do diálogo entre quem constrói, quem usa e quem decide. Tenho facilidade para me adaptar a novos contextos, busco aprender com pessoas mais experientes e estou pronto para contribuir com energia, comprometimento e visão de futuro desde o primeiro dia.
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nível |
+|--------|-------|
+| 🇧🇷 Português | Nativo |
+| 🇺🇸 Inglês | Avançado |
 
 ---
 
